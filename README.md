@@ -19,4 +19,4 @@ A lightweight Python utility to fetch and display AWS EC2 instance metadata with
 
 ## 🚀 Quick Start
 ```bash
-python aws_metadata.py -k instance-id
+python main.py -k instance-id
